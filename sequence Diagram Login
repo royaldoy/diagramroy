@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T15:35:39.313Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.74" etag="33DLty5E37OH1i1jgIx2" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-12T15:36:26.036Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.74" etag="1ba3dzWU3FXMXhZwAB_o" version="20.0.4" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="790" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3nYIaZT50SxzqqlD49p4-4" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="3nYIaZT50SxzqqlD49p4-4" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;pemilik,kasir,pelanggan&lt;/font&gt;" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="50" width="20" height="300" as="geometry" />
         </mxCell>
         <mxCell id="3nYIaZT50SxzqqlD49p4-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="3nYIaZT50SxzqqlD49p4-4">
