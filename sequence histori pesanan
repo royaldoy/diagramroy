@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T16:03:20.868Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.74" etag="ClCZRrHyBmTcWy5uuxQF" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-12T16:05:31.371Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.74" etag="4BAazmW0fJstOCZja-JN" version="20.0.4" type="github">
   <diagram id="tZ3sT5OCvW-v-hNuBFvM" name="Page-1">
     <mxGraphModel dx="953" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="NQcW8eLIHRH2-wldB5jD-8" value="&lt;span style=&quot;font-size: 8px; background-color: rgb(255, 255, 255);&quot;&gt;1. Cetak Laporan&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="100" y="98" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="NQcW8eLIHRH2-wldB5jD-9" value="Daftar Control" style="shape=umlLifeline;participant=umlControl;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="NQcW8eLIHRH2-wldB5jD-9" value="Laporan Control" style="shape=umlLifeline;participant=umlControl;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="310" y="50" width="40" height="300" as="geometry" />
         </mxCell>
         <mxCell id="NQcW8eLIHRH2-wldB5jD-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="NQcW8eLIHRH2-wldB5jD-9">
