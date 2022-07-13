@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-13T14:20:00.733Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.74" etag="ljWcg0TOE7HqyFmazAJF" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-13T14:24:05.658Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.74" etag="JdcpdcscX5bfxpyI4N8p" version="20.1.1" type="github">
   <diagram id="Zp70NSn-indK4ztmFEmW" name="Page-1">
-    <mxGraphModel dx="922" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1114" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -269,24 +269,33 @@
             <mxPoint x="810.0999999999999" y="547.5040000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="90HD7J8GJwDqfddyaIzB-69" value="19: menampilkan&lt;br&gt;halaman pegawai&lt;br&gt;dengan pesan berhasil" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontSize=8;exitX=0.021;exitY=0.735;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="90HD7J8GJwDqfddyaIzB-69" value="24: Menampilkan Pesan &lt;br&gt;Berhasil Dan&lt;br&gt;Refresh Halaman" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontSize=8;exitX=0.021;exitY=0.735;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry x="0.7652" relative="1" as="geometry">
             <mxPoint x="810.4200000000001" y="588.57" as="sourcePoint" />
             <mxPoint x="340" y="588.57" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="90HD7J8GJwDqfddyaIzB-70" value="20: tampilan&lt;br&gt;halaman pegawai&lt;br&gt;dengan pesan berhasil" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontSize=9;entryX=1.067;entryY=0.908;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="90HD7J8GJwDqfddyaIzB-70" value="25:&amp;nbsp;&lt;span style=&quot;font-size: 8px;&quot;&gt;Menampilkan&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;Pesan&lt;/span&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;Berhasil&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;Dan&lt;/span&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;Refresh Halaman&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontSize=9;entryX=1.067;entryY=0.908;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="319.65999999999997" y="592" as="sourcePoint" />
             <mxPoint x="216.00000000000003" y="592.8000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="90HD7J8GJwDqfddyaIzB-71" value="20: tampilan&lt;br&gt;halaman pegawai&lt;br&gt;dengan pesan berhasil" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontSize=9;entryX=1.067;entryY=0.908;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="90HD7J8GJwDqfddyaIzB-71" value="26: Tampilan&amp;nbsp;&lt;span style=&quot;font-size: 8px;&quot;&gt;Pesan&lt;/span&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;Berhasil&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;Dan&lt;/span&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;Refresh Halaman&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontSize=9;entryX=1.067;entryY=0.908;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="194.65999999999997" y="604" as="sourcePoint" />
             <mxPoint x="91" y="604.8000000000001" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="90HD7J8GJwDqfddyaIzB-72" value="&lt;span style=&quot;font-size: 8px; background-color: rgb(255, 255, 255);&quot;&gt;21: hapus(datapegawai)&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="82" y="514" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="90HD7J8GJwDqfddyaIzB-73" value="&lt;span style=&quot;font-size: 8px; background-color: rgb(255, 255, 255);&quot;&gt;22: datapegawai()&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="217" y="523" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="90HD7J8GJwDqfddyaIzB-74" value="&lt;span style=&quot;font-size: 8px; background-color: rgb(255, 255, 255);&quot;&gt;23: hapusdatapegawai()&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="694" y="532" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
