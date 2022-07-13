@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-13T14:24:05.658Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.74" etag="JdcpdcscX5bfxpyI4N8p" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-13T14:47:39.975Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.74" etag="tmqclSSAxCqzEwk5jKLv" version="20.1.1" type="github">
   <diagram id="Zp70NSn-indK4ztmFEmW" name="Page-1">
-    <mxGraphModel dx="1114" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1573" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -78,6 +78,42 @@
         </mxCell>
         <mxCell id="90HD7J8GJwDqfddyaIzB-60" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="90HD7J8GJwDqfddyaIzB-17">
           <mxGeometry x="10" y="478" width="20" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="90HD7J8GJwDqfddyaIzB-75" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="90HD7J8GJwDqfddyaIzB-17">
+          <mxGeometry x="30" y="158" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="90HD7J8GJwDqfddyaIzB-76" value="simpandata()" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;exitX=1.006;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="90HD7J8GJwDqfddyaIzB-75" parent="90HD7J8GJwDqfddyaIzB-17" source="90HD7J8GJwDqfddyaIzB-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="35" y="138" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="65" y="138" />
+              <mxPoint x="65" y="158" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90HD7J8GJwDqfddyaIzB-77" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="90HD7J8GJwDqfddyaIzB-17">
+          <mxGeometry x="30" y="418" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="90HD7J8GJwDqfddyaIzB-78" value="updatedata()" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;exitX=1.006;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="90HD7J8GJwDqfddyaIzB-17" target="90HD7J8GJwDqfddyaIzB-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30.12000000000012" y="398" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="65" y="398" />
+              <mxPoint x="65" y="418" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90HD7J8GJwDqfddyaIzB-79" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="90HD7J8GJwDqfddyaIzB-17">
+          <mxGeometry x="30" y="498" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="90HD7J8GJwDqfddyaIzB-80" value="hapusdata()" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;exitX=1.006;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="90HD7J8GJwDqfddyaIzB-17" target="90HD7J8GJwDqfddyaIzB-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30.12000000000012" y="478" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="65" y="478" />
+              <mxPoint x="65" y="498" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="90HD7J8GJwDqfddyaIzB-20" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;2.&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 8px; background-color: rgb(255, 255, 255);&quot;&gt;tampiltambahpegawai()&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="205" y="107" width="110" height="40" as="geometry" />
