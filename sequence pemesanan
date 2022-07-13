@@ -1,1 +1,125 @@
-<mxfile host="app.diagrams.net" modified="2022-07-13T14:51:00.084Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.74" version="20.1.1" etag="oh1XqHEizi34jqz3PX_r" type="github"><diagram id="PasN7cV6Ib-cRx54XDEx">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-13T15:09:00.029Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.74" etag="q0aDOvhq9AT3WT1ovdzL" version="20.1.1" type="github">
+  <diagram id="PasN7cV6Ib-cRx54XDEx" name="Page-1">
+    <mxGraphModel dx="658" dy="360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BtDMfg0zkv6Ty3wlU2yt-1" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Pelanggan&lt;/font&gt;" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="50" width="20" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="BtDMfg0zkv6Ty3wlU2yt-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="BtDMfg0zkv6Ty3wlU2yt-1">
+          <mxGeometry y="70" width="20" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="BtDMfg0zkv6Ty3wlU2yt-6" value="&lt;font size=&quot;1&quot;&gt;Home&lt;/font&gt;" style="shape=umlLifeline;participant=umlBoundary;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="50" width="50" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="BtDMfg0zkv6Ty3wlU2yt-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="BtDMfg0zkv6Ty3wlU2yt-6">
+          <mxGeometry x="15" y="70" width="20" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BtDMfg0zkv6Ty3wlU2yt-11" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="80" y="120" as="sourcePoint" />
+            <mxPoint x="200" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BtDMfg0zkv6Ty3wlU2yt-12" value="&lt;span style=&quot;font-size: 8px; background-color: rgb(255, 255, 255);&quot;&gt;1: tampilbarang()&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="100" y="104" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BtDMfg0zkv6Ty3wlU2yt-13" value="Dashboard Control" style="shape=umlLifeline;participant=umlControl;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="310" y="50" width="40" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="BtDMfg0zkv6Ty3wlU2yt-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="BtDMfg0zkv6Ty3wlU2yt-13">
+          <mxGeometry x="10" y="88" width="20" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="BtDMfg0zkv6Ty3wlU2yt-16" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;entryX=-0.086;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.02;exitY=0.176;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BtDMfg0zkv6Ty3wlU2yt-7" target="BtDMfg0zkv6Ty3wlU2yt-14">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="210" y="138" as="sourcePoint" />
+            <mxPoint x="380" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BtDMfg0zkv6Ty3wlU2yt-17" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Pemesanan&lt;/font&gt;" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="674" y="51" width="40" height="498" as="geometry" />
+        </mxCell>
+        <mxCell id="BtDMfg0zkv6Ty3wlU2yt-18" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="BtDMfg0zkv6Ty3wlU2yt-17">
+          <mxGeometry x="10" y="89" width="20" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BtDMfg0zkv6Ty3wlU2yt-67" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="BtDMfg0zkv6Ty3wlU2yt-17">
+          <mxGeometry x="30" y="109" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BtDMfg0zkv6Ty3wlU2yt-68" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;6: simpandata()&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;exitX=1.006;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="BtDMfg0zkv6Ty3wlU2yt-17" target="BtDMfg0zkv6Ty3wlU2yt-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30.11999999999989" y="89" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="65" y="89" />
+              <mxPoint x="65" y="109" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BtDMfg0zkv6Ty3wlU2yt-24" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;2:&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 8px; background-color: rgb(255, 255, 255);&quot;&gt;tampilbarangdetail()&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="211" y="122" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BtDMfg0zkv6Ty3wlU2yt-25" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;3: buatpesanan&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 8px; background-color: rgb(255, 255, 255);&quot;&gt;()&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="351" y="144" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BtDMfg0zkv6Ty3wlU2yt-26" value="8: Tampil Halaman &lt;br&gt;Pemesanan Berhasil" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontSize=8;entryX=1.086;entryY=0.829;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BtDMfg0zkv6Ty3wlU2yt-65" target="BtDMfg0zkv6Ty3wlU2yt-2">
+          <mxGeometry x="-0.0698" relative="1" as="geometry">
+            <mxPoint x="420" y="170" as="sourcePoint" />
+            <mxPoint x="340" y="199.70999999999998" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BtDMfg0zkv6Ty3wlU2yt-28" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="340" y="160" as="sourcePoint" />
+            <mxPoint x="447.5" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BtDMfg0zkv6Ty3wlU2yt-29" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Barang&lt;/font&gt;" style="shape=umlLifeline;participant=umlBoundary;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="50" width="50" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="BtDMfg0zkv6Ty3wlU2yt-30" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="BtDMfg0zkv6Ty3wlU2yt-29">
+          <mxGeometry x="15" y="100" width="20" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BtDMfg0zkv6Ty3wlU2yt-36" value="Pemesanan" style="shape=umlLifeline;participant=umlControl;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="555" y="47" width="40" height="503" as="geometry" />
+        </mxCell>
+        <mxCell id="BtDMfg0zkv6Ty3wlU2yt-37" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="BtDMfg0zkv6Ty3wlU2yt-36">
+          <mxGeometry x="10" y="91" width="20" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="BtDMfg0zkv6Ty3wlU2yt-41" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;entryX=0.022;entryY=0.237;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.008;exitY=0.151;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="BtDMfg0zkv6Ty3wlU2yt-37" source="BtDMfg0zkv6Ty3wlU2yt-30">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="470" y="160" as="sourcePoint" />
+            <mxPoint x="600" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BtDMfg0zkv6Ty3wlU2yt-62" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;4: datapesanan&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 8px; background-color: rgb(255, 255, 255);&quot;&gt;()&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="470" y="144" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BtDMfg0zkv6Ty3wlU2yt-63" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;entryX=0.022;entryY=0.237;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.136;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="584.9999999999999" y="163.67" as="sourcePoint" />
+            <mxPoint x="682.72" y="163.71099999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BtDMfg0zkv6Ty3wlU2yt-64" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Pemesanan Berhasil&lt;/font&gt;" style="shape=umlLifeline;participant=umlBoundary;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="51" width="50" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="BtDMfg0zkv6Ty3wlU2yt-65" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="BtDMfg0zkv6Ty3wlU2yt-64">
+          <mxGeometry x="15" y="119" width="20" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="BtDMfg0zkv6Ty3wlU2yt-66" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;5: simpandatapesanan&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 8px; background-color: rgb(255, 255, 255);&quot;&gt;()&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="575" y="147" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BtDMfg0zkv6Ty3wlU2yt-70" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;entryX=0.02;entryY=0.272;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.008;exitY=0.151;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="BtDMfg0zkv6Ty3wlU2yt-65">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="704.0000000000001" y="210.53" as="sourcePoint" />
+            <mxPoint x="804.2800000000001" y="210.001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BtDMfg0zkv6Ty3wlU2yt-71" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;7: tampilhalamanberhasil&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 8px; background-color: rgb(255, 255, 255);&quot;&gt;()&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="718" y="194" width="120" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
