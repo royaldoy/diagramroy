@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-07-13T14:25:40.548Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.74" version="20.1.1" etag="EEsmlJ_zRbCH6kyQejbf" type="github"><diagram id="RNVQDSWPUTA8HlgJlZr1">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-13T14:29:53.361Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.74" etag="0CeQS3ikGDgUdxPqpbl9" version="20.1.1" type="github">
+  <diagram id="RNVQDSWPUTA8HlgJlZr1" name="Page-1">
+    <mxGraphModel dx="790" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="W2ke3Nje6gspYLUp-uKe-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Kasir&lt;/font&gt;" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="50" y="40" width="20" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="W2ke3Nje6gspYLUp-uKe-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="W2ke3Nje6gspYLUp-uKe-1">
+          <mxGeometry x="5" y="80" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="W2ke3Nje6gspYLUp-uKe-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;dashboard&lt;/font&gt;" style="shape=umlLifeline;participant=umlBoundary;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="154" y="40" width="50" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="W2ke3Nje6gspYLUp-uKe-3" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;pemesanan control&lt;/font&gt;" style="shape=umlLifeline;participant=umlControl;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="40" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="W2ke3Nje6gspYLUp-uKe-4" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;pemesanan&lt;/font&gt;" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="40" width="40" height="300" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
