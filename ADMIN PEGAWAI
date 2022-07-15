@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T08:09:19.885Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.74" etag="Eh_wwjlZtpR4jrWkt7sp" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-15T08:11:29.833Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.74" etag="fwqg9UIxaUGHyFtjUyX1" version="20.1.1" type="github">
   <diagram id="ZFTIVpq78JOxy9ApLw2G" name="Page-1">
     <mxGraphModel dx="1382" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -39,7 +39,7 @@
         <mxCell id="wBvVmytP2K-Im2avgiE1-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;PEGAWAI&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="wBvVmytP2K-Im2avgiE1-1">
           <mxGeometry x="235" y="40" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wBvVmytP2K-Im2avgiE1-12" value="TAMBAH PEGAWAI" style="swimlane;fontSize=14;startSize=23;" vertex="1" parent="wBvVmytP2K-Im2avgiE1-1">
+        <mxCell id="wBvVmytP2K-Im2avgiE1-12" value="EDIT PEGAWAI" style="swimlane;fontSize=14;startSize=23;" vertex="1" parent="wBvVmytP2K-Im2avgiE1-1">
           <mxGeometry x="240" y="70" width="480" height="250" as="geometry" />
         </mxCell>
         <mxCell id="wBvVmytP2K-Im2avgiE1-13" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;NAMA PEGAWAI&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=left;" vertex="1" parent="wBvVmytP2K-Im2avgiE1-12">
@@ -54,7 +54,7 @@
         <mxCell id="wBvVmytP2K-Im2avgiE1-16" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;JENIS&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=left;" vertex="1" parent="wBvVmytP2K-Im2avgiE1-12">
           <mxGeometry x="10" y="160" width="310" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wBvVmytP2K-Im2avgiE1-20" value="TAMBAHKAN PEGAWAI" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="wBvVmytP2K-Im2avgiE1-12">
+        <mxCell id="wBvVmytP2K-Im2avgiE1-20" value="SIMPAN PEGAWAI" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="wBvVmytP2K-Im2avgiE1-12">
           <mxGeometry x="10" y="210" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
