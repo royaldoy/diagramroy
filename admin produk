@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T07:57:42.968Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.74" etag="8ztJ6KcfNqR_CGXsdXhD" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-15T07:58:11.385Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.74" etag="9ZCHMzuan6qqXJ22_VH1" version="20.1.1" type="github">
   <diagram id="xkUqbu4bvT_YvqMfJLwT" name="Page-1">
     <mxGraphModel dx="1382" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
         </mxCell>
         <mxCell id="dQdMVISFhhbUR4HR3qZ8-25" value="" style="swimlane;startSize=0;" vertex="1" parent="dQdMVISFhhbUR4HR3qZ8-1">
           <mxGeometry x="20" y="15" width="200" height="420" as="geometry">
-            <mxRectangle x="100" y="30" width="50" height="40" as="alternateBounds" />
+            <mxRectangle x="20" y="15" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dQdMVISFhhbUR4HR3qZ8-26" value="DASHBOARD" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="dQdMVISFhhbUR4HR3qZ8-25">
@@ -62,8 +62,8 @@
         <mxCell id="dQdMVISFhhbUR4HR3qZ8-32" value="LAPORAN PENJUALAN" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="dQdMVISFhhbUR4HR3qZ8-25">
           <mxGeometry x="10" y="360" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dQdMVISFhhbUR4HR3qZ8-31" value="KELOLA PEGAWAI" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="dQdMVISFhhbUR4HR3qZ8-1">
-          <mxGeometry x="295" y="300" width="170" height="40" as="geometry" />
+        <mxCell id="dQdMVISFhhbUR4HR3qZ8-31" value="KELOLA PEGAWAI" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="dQdMVISFhhbUR4HR3qZ8-25">
+          <mxGeometry x="10" y="295" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
