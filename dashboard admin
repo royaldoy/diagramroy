@@ -1,1 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T08:19:08.889Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.74" version="20.1.1" etag="n4JEBOzTE5-z-OSBDqSt" type="github"><diagram id="DDerVWPIWzSBbqZ51t_q">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-15T08:26:59.836Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.74" etag="5GLrhKzPYyzfPxgk4fZo" version="20.1.1" type="github">
+  <diagram id="DDerVWPIWzSBbqZ51t_q" name="Page-1">
+    <mxGraphModel dx="1382" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XsqGhDwxZD59bbbn98Qu-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="810" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="XsqGhDwxZD59bbbn98Qu-2" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;LOGOUT&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="XsqGhDwxZD59bbbn98Qu-1">
+          <mxGeometry x="235" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XsqGhDwxZD59bbbn98Qu-3" value="" style="swimlane;startSize=0;" vertex="1" parent="XsqGhDwxZD59bbbn98Qu-1">
+          <mxGeometry x="20" y="15" width="200" height="420" as="geometry">
+            <mxRectangle x="20" y="15" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XsqGhDwxZD59bbbn98Qu-4" value="DASHBOARD" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="XsqGhDwxZD59bbbn98Qu-3">
+          <mxGeometry x="10" y="71" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XsqGhDwxZD59bbbn98Qu-5" value="KELOLA PRODUK" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="XsqGhDwxZD59bbbn98Qu-3">
+          <mxGeometry x="10" y="141" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XsqGhDwxZD59bbbn98Qu-6" value="KELOLA KATEGORI" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="XsqGhDwxZD59bbbn98Qu-3">
+          <mxGeometry x="10" y="191" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XsqGhDwxZD59bbbn98Qu-7" value="KELOLA PEMESANAN" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="XsqGhDwxZD59bbbn98Qu-3">
+          <mxGeometry x="10" y="241" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XsqGhDwxZD59bbbn98Qu-8" value="&lt;b&gt;NAMA PEMILIK (OWNER)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="XsqGhDwxZD59bbbn98Qu-3">
+          <mxGeometry x="10" y="20" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XsqGhDwxZD59bbbn98Qu-9" value="LAPORAN PENJUALAN" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="XsqGhDwxZD59bbbn98Qu-3">
+          <mxGeometry x="10" y="360" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XsqGhDwxZD59bbbn98Qu-10" value="KELOLA PEGAWAI" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="XsqGhDwxZD59bbbn98Qu-3">
+          <mxGeometry x="10" y="295" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XsqGhDwxZD59bbbn98Qu-18" value="TOTAL PRODUK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XsqGhDwxZD59bbbn98Qu-1">
+          <mxGeometry x="240" y="40" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XsqGhDwxZD59bbbn98Qu-21" value="TOTAL JENIS PRODUK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XsqGhDwxZD59bbbn98Qu-1">
+          <mxGeometry x="380" y="40" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XsqGhDwxZD59bbbn98Qu-22" value="PRODUK TERJUAL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XsqGhDwxZD59bbbn98Qu-1">
+          <mxGeometry x="520" y="40" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XsqGhDwxZD59bbbn98Qu-23" value="JUMLAH MEMBER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XsqGhDwxZD59bbbn98Qu-1">
+          <mxGeometry x="660" y="40" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XsqGhDwxZD59bbbn98Qu-24" value="DATA BARANG TERLARIS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XsqGhDwxZD59bbbn98Qu-1">
+          <mxGeometry x="245" y="126" width="265" height="184" as="geometry" />
+        </mxCell>
+        <mxCell id="XsqGhDwxZD59bbbn98Qu-25" value="DATA BARANG TERJUAL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XsqGhDwxZD59bbbn98Qu-1">
+          <mxGeometry x="525" y="126" width="265" height="184" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
