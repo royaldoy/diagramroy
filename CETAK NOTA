@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T07:19:30.809Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.74" version="20.1.1" etag="2uGtGgyQNN0qIrT8t2G0" type="github"><diagram id="VhzFJV9V4W_7Me0JSneN">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-15T07:22:20.523Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.74" etag="81T6fWNswDEA2bsOKx1w" version="20.1.1" type="github">
+  <diagram id="VhzFJV9V4W_7Me0JSneN" name="Page-1">
+    <mxGraphModel dx="2232" dy="1856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hAXPsEM5lDc_HtQJBdx9-14" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="-835.5" y="-980" width="719" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="hAXPsEM5lDc_HtQJBdx9-35" value="DETAIL PESANAN" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="hAXPsEM5lDc_HtQJBdx9-14">
+          <mxGeometry x="299.5" y="130" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hAXPsEM5lDc_HtQJBdx9-36" value="NOMOR PESANAN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hAXPsEM5lDc_HtQJBdx9-14">
+          <mxGeometry x="35.5" y="180" width="154.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hAXPsEM5lDc_HtQJBdx9-37" value="TANGGAL PEMBELIAN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hAXPsEM5lDc_HtQJBdx9-14">
+          <mxGeometry x="282.25" y="180" width="154.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hAXPsEM5lDc_HtQJBdx9-39" value="STATUS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hAXPsEM5lDc_HtQJBdx9-14">
+          <mxGeometry x="505.5" y="180" width="154.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hAXPsEM5lDc_HtQJBdx9-40" value="DAFTAR PRODUK" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="hAXPsEM5lDc_HtQJBdx9-14">
+          <mxGeometry x="30.5" y="240" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hAXPsEM5lDc_HtQJBdx9-41" value="DAFTAR PRODUK YANG DIPESAN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hAXPsEM5lDc_HtQJBdx9-14">
+          <mxGeometry x="40.5" y="270" width="619.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hAXPsEM5lDc_HtQJBdx9-42" value="PEMBAYARAN" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="hAXPsEM5lDc_HtQJBdx9-14">
+          <mxGeometry x="40.5" y="350" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hAXPsEM5lDc_HtQJBdx9-43" value="TOTAL HARGA" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="hAXPsEM5lDc_HtQJBdx9-14">
+          <mxGeometry x="40.5" y="380" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hAXPsEM5lDc_HtQJBdx9-44" value="METODE BAYAR" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="hAXPsEM5lDc_HtQJBdx9-14">
+          <mxGeometry x="40.5" y="415" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hAXPsEM5lDc_HtQJBdx9-27" value="CARI" style="rounded=0;whiteSpace=wrap;html=1;opacity=70;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="-940" width="51" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hAXPsEM5lDc_HtQJBdx9-28" value="KONTAK" style="rounded=0;whiteSpace=wrap;html=1;opacity=70;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="-940" width="59" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hAXPsEM5lDc_HtQJBdx9-29" value="TENTANG" style="rounded=0;whiteSpace=wrap;html=1;opacity=70;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="-940" width="71" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hAXPsEM5lDc_HtQJBdx9-30" value="List Sosial Media" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="-970" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hAXPsEM5lDc_HtQJBdx9-31" value="No Telp Toko" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="-820" y="-970" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hAXPsEM5lDc_HtQJBdx9-32" value="&lt;b&gt;BCOFFEE&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=70;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-820" y="-940" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hAXPsEM5lDc_HtQJBdx9-33" value="KERANJANG" style="rounded=0;whiteSpace=wrap;html=1;opacity=70;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="-940" width="89" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hAXPsEM5lDc_HtQJBdx9-34" value="SHOP" style="rounded=0;whiteSpace=wrap;html=1;opacity=70;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="-940" width="59" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
