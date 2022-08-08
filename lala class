@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-08-08T14:34:42.828Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 OPR/89.0.4447.83" etag="3vhk0udiBr6WYCM-4BEz" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-08T14:40:12.518Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 OPR/89.0.4447.83" etag="ClJjSgolGSWtikeP_pRy" version="20.2.2" type="github">
   <diagram id="8cuTMuTQIFQNn_mkFbjX" name="Page-1">
-    <mxGraphModel dx="2824" dy="1080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3614" dy="1512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="aLD3x5a2Ya6LXzliVdMa-1" value="Login" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="-650" y="440" width="160" height="120" as="geometry" />
+          <mxGeometry x="-570" y="480" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="aLD3x5a2Ya6LXzliVdMa-2" value="+ username&#xa;+ password&#xa;+ role" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aLD3x5a2Ya6LXzliVdMa-1">
           <mxGeometry y="26" width="160" height="54" as="geometry" />
@@ -88,7 +88,7 @@
         <mxCell id="aLD3x5a2Ya6LXzliVdMa-28" value="+ create()&#xa;+ read()&#xa;+ update()&#xa;+ delete ()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aLD3x5a2Ya6LXzliVdMa-25">
           <mxGeometry y="78" width="160" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="aLD3x5a2Ya6LXzliVdMa-29" value="Admin Owner" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+        <mxCell id="aLD3x5a2Ya6LXzliVdMa-29" value="Pemilik Toko" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="-320" y="720" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="aLD3x5a2Ya6LXzliVdMa-30" value="+ username&#xa;+ password" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aLD3x5a2Ya6LXzliVdMa-29">
@@ -100,7 +100,7 @@
         <mxCell id="aLD3x5a2Ya6LXzliVdMa-32" value="+ create()&#xa;+ read()&#xa;+ update()&#xa;+ delete ()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aLD3x5a2Ya6LXzliVdMa-29">
           <mxGeometry y="78" width="160" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="aLD3x5a2Ya6LXzliVdMa-33" value="Admin Kasir" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+        <mxCell id="aLD3x5a2Ya6LXzliVdMa-33" value="Kasir" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="-320" y="910" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="aLD3x5a2Ya6LXzliVdMa-34" value="+ username&#xa;+ password" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aLD3x5a2Ya6LXzliVdMa-33">
